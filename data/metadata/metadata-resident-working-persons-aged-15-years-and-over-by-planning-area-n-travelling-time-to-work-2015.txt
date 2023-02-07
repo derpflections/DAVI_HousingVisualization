@@ -1,0 +1,102 @@
+# Metadata for Resident Working Persons Aged 15 Years and Over by Planning Area and Travelling Time to Work, 2015
+---
+Identifier: '51fe72cf-e81a-4ef0-b12e-c56b359a89ff'
+Name: 'resident-working-persons-aged-15-years-and-over-by-planning-area-n-travelling-time-to-work-2015'
+Title: 'Resident Working Persons Aged 15 Years and Over by Planning Area and Travelling
+  Time to Work, 2015'
+Description:
+  - 'From 1995, the General Household Survey (GHS) is conducted in between 2 Population
+    Censuses as a mid-decade mini-Census.'
+  - ''
+  - 'The General Household Survey (GHS) 2015 is the third in the series of mid-decade
+    national survey. It covers a wide range of topics and provides comprehensive data
+    on Singapore’s population and households in between the population censuses that
+    are conducted once in ten years.'
+Topics:
+  - 'Society'
+Keywords:
+  - 'General Household Survey'
+  - 'Planning Area'
+  - 'Resident Working Persons Aged 15 Years and Over'
+  - 'Travelling Time to Work'
+Publisher:
+  Name: 'Ministry of Trade and Industry - Department of Statistics'
+  Admin 1:
+    Name: 'SingStat Info'
+    Department: 'Statistics Information Services'
+    Email: 'info@singstat.gov.sg'
+Sources:
+  - 'Ministry of Trade and Industry - Department of Statistics'
+Source Url: 'https://tablebuilder.singstat.gov.sg/table/CT/8318'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Other'
+Coverage: '2015-01-01 to 2015-12-31'
+Last Updated: '2023-01-10T10:11:46.837572'
+Resources:
+  -
+    Identifier: '043179d7-814c-4807-8db5-80bfe4a1df52'
+    Title: 'Resident Working Persons Aged 15 Years and Over by PA(Total) and Travelling
+      Time to Work'
+    Url: 'https://storage.data.gov.sg/resident-working-persons-aged-15-years-and-over-by-planning-area-n-travelling-time-to-work-2015/resources/resident-working-persons-aged-15-years-and-over-by-pa-total-and-travelling-time-to-work-2019-09-09T05-15-52Z.csv'
+    Format: 'CSV'
+    Coverage: '2015-01-01 to 2015-12-31'
+    Last Updated: '2019-09-09T05:15:52.910829'
+    Schema:
+      -
+        Name: 'year'
+        Title: 'Year'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+      -
+        Name: 'level_1'
+        Title: 'Travelling Time to Work'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'level_2'
+        Title: 'Planning Area (Total)'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'value'
+        Title: 'Value'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'Thousands'
+  -
+    Identifier: '8aa07eb1-057c-40d8-bf1f-75c3a72103b3'
+    Title: 'Resident Working Persons Aged 15 Years and Over by PA and Travelling Time
+      to Work'
+    Url: 'https://storage.data.gov.sg/resident-working-persons-aged-15-years-and-over-by-planning-area-n-travelling-time-to-work-2015/resources/resident-working-persons-aged-15-years-and-over-by-pa-and-travelling-time-to-work-2018-06-01T10-17-32Z.csv'
+    Format: 'CSV'
+    Coverage: '2015-01-01 to 2015-12-31'
+    Last Updated: '2018-06-01T10:17:32.312248'
+    Schema:
+      -
+        Name: 'year'
+        Title: 'Year'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+      -
+        Name: 'level_1'
+        Title: 'Travelling Time to Work'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'level_2'
+        Title: 'Planning Area (Total)'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'level_3'
+        Title: 'Planning Area'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'value'
+        Title: 'Value'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'Thousands'
